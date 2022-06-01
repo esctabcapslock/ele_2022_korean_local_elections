@@ -26,4 +26,5 @@
     - [대한민국 최신 행정구역(SHP) 2022.01 읍면동, 리](http://www.gisdeveloper.co.kr/?p=2332), gisdeveloper, 
         - 경계가 없는 경우 사용
     - [고운동 투표구 명칭 및 관할구역 공고](./%EA%B3%A0%EC%9A%B4%EB%8F%99%20%ED%88%AC%ED%91%9C%EA%B5%AC%20%EB%AA%85%EC%B9%AD%20%EB%B0%8F%20%EA%B4%80%ED%95%A0%EA%B5%AC%EC%97%AD%20%EA%B3%B5%EA%B3%A0.hwp), 세종시선거관리위원회, 2022.06.02 확인
+    - [도담동 주요시설 소개](https://www.sejong.go.kr/dong/sub05_1206.do), 세종시청, 2022.06.02 확인
     - [제주특별자치도 리·통 및 반 설치 조례 별표](./(%EB%B3%84%ED%91%9C)(%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EB%A6%AC%C2%B7%ED%86%B5%20%EB%B0%8F%20%EB%B0%98%20%EC%84%A4%EC%B9%98%20%EC%A1%B0%EB%A1%80).hwp), 행정안전부, 2022.06.02 확인
